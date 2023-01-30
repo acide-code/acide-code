@@ -1,15 +1,14 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
+## Hi there!
 ### We're `ACIDe`
-`We build some cool stuff.`
+`We build cool stuffs.`
+
+### ACIDe is an code editor designed for education.
+***
+### `Want to write some programs on mobile? We can help you with that!`
+#### Introduce `Oxide`, our latest editor running on mobile, available on both `Android` and `IOS`. `WIP`
+
+### `Want an retro one with modern features?`
+#### Try `ACIDe C++`, an alternative to Dev C++ with modern GUI and improvements. `WIP`
+
+### `Something new?`
+#### `ACIDe` is a new editor with all the features we want. `WIP`
